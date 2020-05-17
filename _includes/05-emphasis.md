@@ -1,17 +1,15 @@
-Here goes the ordered list:
-1) Do
-2) Not
-3) Read
-4. This
-5) Choaus gang was here B)
+123
+*TABS = 8*
+**ALSO, _Soft Wrap_ is ENabled**;
+- [x] Created a list just in case
+  * This includes a list of the stuff I write here
+  * and here
+  * and also here
+  * and I should prolly be more creative
+- [x] Be more creative
+  - So i'm gonna write is here, too
+  * Cool then
+  * Moving on...
 
 
-#### *Unor***der*****ed*** ~~ch~~a**O**s:
-- This loks alright
-- How about a bit more order tho?
-- Who wrote this line?? ^
-- Not me :I
-  - Mathew!!!
-  - LMAO not Mathew either, t'was Steve!
-  - guys i dont even work here..
-- Nvm. >:C
+*Onward and uppward!*, `as they say`
